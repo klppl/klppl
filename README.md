@@ -1,4 +1,4 @@
-![banner](https://i.imgur.com/uhLqXBL.png)
+### HTML guru with breadth as core competency. • I know everything, also as in a specialization.
 
 ![counter](https://www.websitecounterfree.com/c.php?d=4&id=38121&s=1)
 
