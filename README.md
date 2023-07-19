@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![counter](https://www.websitecounterfree.com/c.php?d=4&id=38121&s=1)
+
 <!--
 **klppl/klppl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
